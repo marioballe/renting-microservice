@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/api
+/RentingMicroservice/bin
+/RentingMicroservice.Application/bin
+/RentingMicroservice.Application/obj
+/RentingMicroservice/obj
+/RentingMicroservice.Domain/bin
+/RentingMicroservice.Domain/obj
+/RentingMicroservice.FunctionalTests/bin
+/RentingMicroservice.FunctionalTests/obj
+/RentingMicroservice.InfraestructureTests/bin
+/RentingMicroservice.InfraestructureTests/obj
+/RentingMicroservice.Infrastructure/bin
+/RentingMicroservice.Infrastructure/obj
+/RentingMicroservice.UnitTests/bin
+/RentingMicroservice.UnitTests/obj
